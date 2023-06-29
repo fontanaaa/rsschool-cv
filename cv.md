@@ -21,11 +21,13 @@ I am 29 years old, I work as an analyst in the field of intellectual property pr
 
 ## Code
 
-`function getName1(name1) {
+```
+function getName1(name1) {
     return(`Имя равно ${name1}`);
 }
 
-console.log(getName1('Alex'));`
+console.log(getName1('Alex'));
+```
 
 ## Courses
 
