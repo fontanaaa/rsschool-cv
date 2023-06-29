@@ -9,7 +9,7 @@
 
 ## About me
 
-\*I am 29 years old, I work as an analyst in the field of intellectual property protection. I started learning javascript in 2021, I had good knowledge, but after a while I don't remember much. Thanks to this course, I want to return to the world of programming again, become a frontend jun and, above all, better than I was.
+I am 29 years old, I work as an analyst in the field of intellectual property protection. I started learning javascript in 2021, I had good knowledge, but after a while I don't remember much. Thanks to this course, I want to return to the world of programming again, become a frontend jun and, above all, better than I was.
 
 ## Skills
 
